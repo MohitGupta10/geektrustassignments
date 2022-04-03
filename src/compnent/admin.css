@@ -1,0 +1,25 @@
+.pag{
+    border :1px solid red;
+   background-color:aqua;
+   color:red;
+}
+.selected{
+    border :1px solid red;
+    
+    
+}
+.tableblock{
+    border :1px solid blue;
+    display :flex;
+    justify-content: center;
+    margin-top:10px;
+    column-gap: 10px;
+}
+.inputfill{
+    width:100%;
+
+}
+.row{
+    border:1px solid blue;
+    margin-left:5px;
+}
